@@ -1,6 +1,3 @@
-//esta mierda hace que corra conda en el cmd de vscode; nada mas
-{
-  "python.terminal.activateEnvironment": true,
-  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
-  "python.condaPath": "C:\\Users\\mathi\\Anaconda3\\Scripts\\conda.exe"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7e82dad702db6f07bea3d73b7b6b12958a80ebd7e4f7523b239ba046edd5096
+size 261
